@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Hangman_game {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("HANGMAN GAME");
 
@@ -111,6 +111,7 @@ public class Hangman_game {
         }
     }
 }
+
 
 
 
